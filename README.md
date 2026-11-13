@@ -44,6 +44,6 @@ For the fisrt time, run the SQL script from the second row in `psql`, DBeaver or
 - Delivery logic and tables
 - Discount, cancellation and return logic
 
-## Tech
+## Tools
 
 PostgreSQL · PL/pgSQL · draw.io
